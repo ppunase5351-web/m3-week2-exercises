@@ -1,0 +1,16 @@
+{
+  "name": "mongodb_demo",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Pradnyashree Punase",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongodb": "3.6"
+  }
+}
